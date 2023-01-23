@@ -1,10 +1,21 @@
 
-# 0x00. ES6 Basics
-For this project,I have understand these basic concepts:
+# ALX Backend JavaScript
+This repository contains all Proects in ALX Backend with JavaScript:
 
-•	Modern JavaScript
+•	0x00-ES6_basic
 
-•	Software Linter
+•	0x01-ES6_promise
+
+•	0x02-ES6_classes
+
+•	0x03-ES6_data_manipulation
+
+•	0x04-TypeScript
+
+•	0x05-Node_JS_basic
+
+•	0x06-unittests_in_js
+
 
 
 
@@ -17,18 +28,6 @@ For this project,I have understand these basic concepts:
 # Hi, I'm Alexander Takele Mengesha! 👋
 
 
-## Installation
-
-Install my-project with Xampp folder
-
-```bash
-  Install NodeJS 12.11.x. 
-•	Install Jest using: npm install --save-dev jest
-•	Install Babel using: npm install --save-dev babel-jest @babel/core @babel/preset-env
-•	Install ESLint using: npm install --save-dev eslint
-
-```
-    
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alextakele/)
