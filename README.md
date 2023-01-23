@@ -1,6 +1,6 @@
 t add
 # ALX Backend JavaScript
-This repository contains all Proects in ALX Backend with JavaScript:
+This repository contains all Projects in ALX Backend with JavaScript:
 
 •	0x00-ES6_basic
 
