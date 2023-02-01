@@ -37,5 +37,6 @@ This repository contains all Projects in ALX Backend with JavaScript:
 ## Tech Stack
 
 •	JavaScript 
+
 •	TypeScript 
 
