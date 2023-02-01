@@ -38,3 +38,5 @@ This repository contains all Projects in ALX Backend with JavaScript:
 
 •	JavaScript 
 
+•	TypeScript 
+
