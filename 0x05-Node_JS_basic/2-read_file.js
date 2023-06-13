@@ -1,4 +1,3 @@
-// use synchronously 
 const fs = require('fs');
 
 const countStudents = (path) => {
